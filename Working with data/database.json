@@ -1,0 +1,22 @@
+{
+    "Songs": [
+        {
+            "Title": "Love Again",
+            "Artist": "Milky Chance",
+            "Album": "Trip Tape",
+            "Year": 2021
+        },
+        {
+            "Title": "Mercy",
+            "Artist": "Shawn Mendes",
+            "Album": "Illuminate",
+            "Year": 2017
+        },
+        {
+            "Title": "Levitating",
+            "Artist": "Dua Lipa",
+            "Album": "Future Nostalgia",
+            "Year": 2021
+        }
+    ]
+}
